@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Parking System</string>
+    <string name="app_name">Piste</string>
     <string name="access_token" translatable="false">pk.eyJ1Ijoic3VyeWExOSIsImEiOiJjanpjd2o1cnQwOTVoM2NtYTNwb20zcWY1In0.3R9hwFoH3gGDJd71_wyHEg</string>
     <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
     <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
@@ -7,5 +7,9 @@
     <string name="locateDustbin">dustbin</string>
     <string name="locate">locate_Dustbin</string>
     <string name="locate_parking_lot">locate parking lot</string>
+    <string name="locate1">locateDustbin</string>
+    <string name="locate_drinking_water">locate drinking water</string>
+    <string name="locate_boys_restroom">Locate Boys Restroom</string>
+    <string name="locate_girls_restroom">Locate Girls Restroom</string>
 </resources>
 
